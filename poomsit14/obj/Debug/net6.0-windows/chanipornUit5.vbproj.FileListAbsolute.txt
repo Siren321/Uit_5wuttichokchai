@@ -1,0 +1,9 @@
+E:\poomsit14\poomsit14\obj\Debug\net6.0-windows\chanipornUit5.Form1.resources
+E:\poomsit14\poomsit14\obj\Debug\net6.0-windows\chanipornUit5.Form2.resources
+E:\poomsit14\poomsit14\obj\Debug\net6.0-windows\chanipornUit5.Resources.resources
+E:\poomsit14\poomsit14\obj\Debug\net6.0-windows\chanipornUit5.Web 14.resources
+E:\poomsit14\poomsit14\obj\Debug\net6.0-windows\chanipornUit5.vbproj.GenerateResource.cache
+E:\poomsit14\poomsit14\obj\Debug\net6.0-windows\chanipornUit5.GeneratedMSBuildEditorConfig.editorconfig
+E:\poomsit14\poomsit14\obj\Debug\net6.0-windows\chanipornUit5.AssemblyInfoInputs.cache
+E:\poomsit14\poomsit14\obj\Debug\net6.0-windows\chanipornUit5.AssemblyInfo.vb
+E:\poomsit14\poomsit14\obj\Debug\net6.0-windows\chanipornUit5.vbproj.CoreCompileInputs.cache
